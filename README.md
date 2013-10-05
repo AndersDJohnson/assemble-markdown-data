@@ -1,4 +1,4 @@
-# assemble-markdown-data [![NPM version](https://badge.fury.io/js/assemble-markdown-data.png)](http://badge.fury.io/js/assemble-markdown-data)
+# assemble-plugin-markdown-data [![NPM version](https://badge.fury.io/js/assemble-plugin-markdown-data.png)](http://badge.fury.io/js/assemble-plugin-markdown-data)
 
 An [Assemble](http://assemble.io) plugin for automatic parsing of markdown in data.
 
