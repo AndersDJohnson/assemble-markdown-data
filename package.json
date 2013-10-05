@@ -1,5 +1,5 @@
 {
-  "name": "assemble-markdown-data",
+  "name": "assemble-plugin-markdown-data",
   "version": "0.0.1",
   "description": "An Assemble plugin for automatic parsing of markdown in data.",
   "main": "lib/index.js",
@@ -13,12 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/AndersDJohnson/assemble-markdown-data.git"
+    "url": "https://github.com/AndersDJohnson/assemble-plugin-markdown-data.git"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/AndersDJohnson/assemble-markdown-data/blob/master/LICENSE-MIT"
+      "url": "https://github.com/AndersDJohnson/assemble-plugin-markdown-data/blob/master/LICENSE-MIT"
     }
   ],
   "engines": {
@@ -34,7 +34,7 @@
   },
   "keywords": [
     "assemble",
-    "assemble-plugin",
+    "assembleplugin",
     "blog generator",
     "blog",
     "boilerplate",
