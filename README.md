@@ -46,7 +46,7 @@ Resulting JavaScript object:
 ```js
 {
   "name": "Anders D. Johnson",
-  "about": "<p>My favorite things to do are:</p><ul><li>Writing code<ul><li>Especially JavaScript</li></ul></li><li>Browsing <a href="https://github.com">GitHub</a></li></ul>",
+  "about": "<p>My favorite things to do are:</p><ul><li>Writing code<ul><li>Especially JavaScript</li></ul></li><li>Browsing <a href=\"https://github.com\">GitHub</a></li></ul>",
   "age": 23
 }
 ```
