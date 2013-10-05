@@ -30,7 +30,7 @@
   },
   "devDependencies": {
     "assemble": "~0.4.10",
-    "grunt": "~0.4.1",
+    "grunt": "~0.4.1"
   },
   "keywords": [
     "assemble",
