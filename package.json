@@ -1,0 +1,102 @@
+{
+  "name": "assemble-markdown-data",
+  "version": "0.0.1",
+  "description": "An Assemble plugin for automatic parsing of markdown in data.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": {
+    "name": "adjohnson916",
+    "url": "https://github.com/adjohnson916"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adjohnson916/assemble-markdown-data.git"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/adjohnson916/assemble-markdown-data/blob/master/LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "dependencies": {
+    "marked": "~0.2.9",
+    "traverse": "~0.6.6"
+  },
+  "devDependencies": {
+    "assemble": "~0.4.10",
+    "grunt": "~0.4.1",
+  },
+  "keywords": [
+    "assemble",
+    "assemble-plugin",
+    "blog generator",
+    "blog",
+    "boilerplate",
+    "boilerplates",
+    "bootstrap",
+    "build and deployment",
+    "build bootstrap",
+    "build system",
+    "build",
+    "builder",
+    "compile",
+    "compiler",
+    "components",
+    "conventions",
+    "deploy",
+    "example handlebars",
+    "framework",
+    "generator",
+    "gh-pages",
+    "grunt task",
+    "grunt",
+    "gruntplugin",
+    "handlebars",
+    "helpers",
+    "jekyll alternative",
+    "jekyll static",
+    "jekyll",
+    "json",
+    "mock",
+    "mocking",
+    "modules",
+    "mustache",
+    "node blog",
+    "node jekyll",
+    "parse",
+    "parser",
+    "partial",
+    "partials",
+    "pre-processor",
+    "preprocessor",
+    "render",
+    "renderer",
+    "scaffold",
+    "scaffolds",
+    "site blog generator",
+    "site builder",
+    "site generator",
+    "site generators",
+    "site site generator",
+    "site site generators",
+    "static HTML",
+    "static site",
+    "templates",
+    "templating",
+    "theme",
+    "themes",
+    "tool",
+    "toolkit",
+    "utility",
+    "web development",
+    "web framework",
+    "yaml front matter",
+    "yaml"
+  ]
+}
