@@ -9,7 +9,7 @@ First, setup a project with Grunt and Assemble.
 Then install the plugin: 
 
 ```sh
-npm install --save-dev assemble-markdown-data
+npm install --save-dev assemble-plugin-markdown-data
 ```
 
 Add the plugin to your Grunt assemble config:
@@ -17,7 +17,7 @@ Add the plugin to your Grunt assemble config:
 ```js
 assemble: {
   options: {
-    plugins: [ 'assemble-markdown-data' ]
+    plugins: [ 'assemble-plugin-markdown-data' ]
   },
   ...
 },
