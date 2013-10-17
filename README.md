@@ -20,7 +20,7 @@ Add the plugin to your Grunt assemble config:
 ```js
 assemble: {
   options: {
-    plugins: [ 'assemble-plugin-markdown-data' ]
+    plugins: [ 'assemble-markdown-data' ]
   },
   ...
 },
