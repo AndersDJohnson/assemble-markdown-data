@@ -1,7 +1,7 @@
-# assemble-plugin-markdown-data
+# assemble-markdown-data
 
-[![NPM version](https://badge.fury.io/js/assemble-plugin-markdown-data.png)](http://badge.fury.io/js/assemble-plugin-markdown-data)
-[![NPM dependencies](https://david-dm.org/AndersDJohnson/assemble-plugin-markdown-data.png)](https://david-dm.org/AndersDJohnson/assemble-plugin-markdown-data)
+[![NPM version](https://badge.fury.io/js/assemble-markdown-data.png)](http://badge.fury.io/js/assemble-markdown-data)
+[![NPM dependencies](https://david-dm.org/AndersDJohnson/assemble-markdown-data.png)](https://david-dm.org/AndersDJohnson/assemble-markdown-data)
 
 > An [Assemble](http://assemble.io) plugin for automatic parsing of markdown in data.
 
@@ -12,7 +12,7 @@ First, setup a project with Grunt and Assemble.
 Then install the plugin: 
 
 ```sh
-npm install --save-dev assemble-plugin-markdown-data
+npm install --save-dev assemble-markdown-data
 ```
 
 Add the plugin to your Grunt assemble config:
