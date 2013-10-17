@@ -1,6 +1,6 @@
 {
   "name": "assemble-markdown-data",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An Assemble plugin for automatic parsing of markdown in data.",
   "main": "lib/index.js",
   "scripts": {
