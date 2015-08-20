@@ -20,6 +20,23 @@ module.exports = function (grunt) {
             dest: 'example/1/build'
           }
         ]
+      },
+      newline: {
+        options: {
+          engine: 'handlebars',
+          plugins: [
+            './lib/*.js'
+          ],
+          data: ['example/newline/data/*']
+        },
+        files: [
+          {
+            expand: true,
+            cwd: 'example/newline/src/content',
+            src: ['**/*.hbs'],
+            dest: 'example/newline/build'
+          }
+        ]
       }
     }
   });
