@@ -1,0 +1,7 @@
+datas:
+  - markdown: "\n
+      Test first line  \n
+      test second line"
+  - markdown: |
+      Test first line  
+      test second line
