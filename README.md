@@ -22,7 +22,7 @@ assemble: {
   options: {
     plugins: [ 'assemble-markdown-data' ]
   },
-  ...
+  // ...
 },
 ```
 
