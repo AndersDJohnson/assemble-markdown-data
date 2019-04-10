@@ -1,6 +1,6 @@
 {
   "name": "assemble-markdown-data",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "An Assemble plugin for automatic parsing of markdown in data.",
   "main": "lib/index.js",
   "scripts": {
@@ -73,10 +73,7 @@
     "yaml front matter",
     "yaml"
   ],
-  "author": {
-    "name": "AndersDJohnson",
-    "url": "https://github.com/AndersDJohnson"
-  },
+  "author": "Anders D. Johnson (https://andersdjohnson.com)",
   "repository": {
     "type": "git",
     "url": "https://github.com/AndersDJohnson/assemble-markdown-data.git"
